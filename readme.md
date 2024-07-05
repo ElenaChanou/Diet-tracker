@@ -81,4 +81,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 
-- **Author Name** - [username](https://github.com/username)
+- **Angelos Galanopoulos** - [Evangelos-Galanopoulos](),
+- **Kyle Ilkay ENGEL** - [Kyle-Ilkay-ENGEL](),
+- **Elena Chanou** - [ELENI-CHANOU](https://github.com/ElenaChanou)
